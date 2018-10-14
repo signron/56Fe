@@ -1,4 +1,4 @@
-# FE26
-This is a project for my astronomy class, it's based on gabriele cirulli's 2048
+# 56Fe
+This is a chemistry game.
 ## License
-FE26 and 2048 are licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+56Fe are licensed under the [Apache License 2.0](https://github.com/gabrielecirulli/2048/blob/master/LICENSE)
